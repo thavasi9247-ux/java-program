@@ -1,0 +1,94 @@
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+        Scanner scan = new Scanner(System.in);
+        byte a = scan.nextByte();
+        short b = scan.nextShort();
+        int c = scan.nextInt();
+        float d = scan.nextFloat();
+        long e = scan.nextLong();
+        double f = scan.nextDouble();
+        String str1 = scan.next();
+        String str2 = scan.nextLine();
+        char ch = scan.next().charAt(0);
+        System.out.println(a+""+b);
+        System.out.println(c+""+d);
+        System.out.println(e+""+f);
+        System.out.println(str1+""+str2);
+        System.out.println(ch);
+        
+        
+    }
+}
+
+output:
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+        Scanner scan = new Scanner(System.in);
+        byte a = scan.nextByte();
+        short b = scan.nextShort();
+        int c = scan.nextInt();
+        float d = scan.nextFloat();
+        long e = scan.nextLong();
+        double f = scan.nextDouble();
+        String str1 = scan.next();
+        String str2 = scan.nextLine();
+        char ch = scan.next().charAt(0);
+        System.out.println(a+""+b);
+        System.out.println(c+""+d);
+        System.out.println(e+""+f);
+        System.out.println(str1+""+str2);
+        System.out.println(ch);
+        
+        
+    }
+}
+
+output:
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+        Scanner scan = new Scanner(System.in);
+        byte a = scan.nextByte();
+        short b = scan.nextShort();
+        int c = scan.nextInt();
+        float d = scan.nextFloat();
+        long e = scan.nextLong();
+        double f = scan.nextDouble();
+        String str1 = scan.next();
+        String str2 = scan.nextLine();
+        char ch = scan.next().charAt(0);
+        System.out.println(a+""+b);
+        System.out.println(c+""+d);
+        System.out.println(e+""+f);
+        System.out.println(str1+""+str2);
+        System.out.println(ch);
+        
+        
+    }
+}
+
+
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+        Scanner scan = new Scanner(System.in);
+        byte a = scan.nextByte();
+        short b = scan.nextShort();
+        int c = scan.nextInt();
+        float d = scan.nextFloat();
+        long e = scan.nextLong();
+        double f = scan.nextDouble();
+        String str1 = scan.next();
+        String str2 = scan.nextLine();
+        char ch = scan.next().charAt(0);
+        System.out.println(a+""+b);
+        System.out.println(c+""+d);
+        System.out.println(e+""+f);
+        System.out.println(str1+""+str2);
+        System.out.println(ch);
+        
+        
+    }
+}

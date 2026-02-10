@@ -1,0 +1,24 @@
+4,palindrome 
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int a = scan.nextInt();
+        int reverse = 0;
+        int temp = a;
+
+        while (a > 0) {
+            int r = a % 10;
+            reverse = reverse * 10 + r;
+            a = a / 10;
+        }
+
+        if (temp == reverse) {
+            System.out.println("Palindrome");
+        } else {
+            System.out.println("Not Palindrome");
+        }
+    }
+}
